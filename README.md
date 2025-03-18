@@ -1,0 +1,2 @@
+# Pemkom
+Dasar-dasar python
